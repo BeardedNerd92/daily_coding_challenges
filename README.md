@@ -73,7 +73,3 @@ node planetClassification.js
 ## Assumptions and next steps
 - Assumed inputs are simple and well-formed (non-negative integers for decimal conversion, strings containing `@` for emails).
 - Next improvements: add input validation and small unit tests for edge cases (zero, empty/invalid emails, unexpected planet properties).
-
-## Summary
-
-Added a short summary of each challenge implementation, the core lessons, and the time/space complexity analysis. If you want, I can also add example inputs/expected outputs and small unit tests for each file.
